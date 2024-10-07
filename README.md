@@ -18,7 +18,7 @@ This project focuses on building a machine translation model using an LSTM (Long
 This project builds a machine translation model to convert text from English to Kinyarwanda (or vice versa). Using an LSTM-based encoder-decoder architecture, the model is trained to predict sequences in the target language based on input sequences from the source language.
 
 ## Dataset
-- **Input Dataset**: A tourism dataset containing English and Kinyarwanda phrases. [mbazaNLP/NMT_Tourism_parallel_data_en_kin]
+- **Input Dataset**: A tourism dataset containing English and Kinyarwanda phrases. [mbazaNLP/NMT_Tourism_parallel_data_en_kin](!mbazaNLP/NMT_Tourism_parallel_data_en_kin)
 - **File Format**: The data is stored in TSV format (`tourism_train_data.tsv`) and contains columns for `source` (English) and `phrase` (Kinyarwanda).
 - **Preprocessing**: The text data is cleaned by lowercasing, removing punctuation, and stripping extra whitespace.
 
