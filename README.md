@@ -53,9 +53,18 @@ The model's performance can be improved by fine-tuning the hyperparameters or in
 
 ## Visualizations
 - **Word Clouds**: Visualized the most common words in both the English and Kinyarwanda datasets using word clouds.
+
+  ![Kinyarwanda Word Cloud](kiny.png)
+
+  ![English Word Cloud](eng.png)
+
 - **Accuracy and Loss Plots**: Plotted training and validation accuracy/loss over the epochs.
 
-[Image]
+  ![Accuracy Plot](acc.png)
+
+  ![Loss Plot](loss.png)
+
+
 
 [Image]
 
